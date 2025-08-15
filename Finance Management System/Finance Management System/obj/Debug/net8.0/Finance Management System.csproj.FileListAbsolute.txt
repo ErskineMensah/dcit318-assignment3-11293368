@@ -1,0 +1,14 @@
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\Finance Management System\Finance Management System\bin\Debug\net8.0\Finance Management System.exe
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\Finance Management System\Finance Management System\bin\Debug\net8.0\Finance Management System.deps.json
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\Finance Management System\Finance Management System\bin\Debug\net8.0\Finance Management System.runtimeconfig.json
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\Finance Management System\Finance Management System\bin\Debug\net8.0\Finance Management System.dll
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\Finance Management System\Finance Management System\bin\Debug\net8.0\Finance Management System.pdb
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\Finance Management System\Finance Management System\obj\Debug\net8.0\Finance Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\Finance Management System\Finance Management System\obj\Debug\net8.0\Finance Management System.AssemblyInfoInputs.cache
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\Finance Management System\Finance Management System\obj\Debug\net8.0\Finance Management System.AssemblyInfo.cs
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\Finance Management System\Finance Management System\obj\Debug\net8.0\Finance Management System.csproj.CoreCompileInputs.cache
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\Finance Management System\Finance Management System\obj\Debug\net8.0\Finance Management System.dll
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\Finance Management System\Finance Management System\obj\Debug\net8.0\refint\Finance Management System.dll
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\Finance Management System\Finance Management System\obj\Debug\net8.0\Finance Management System.pdb
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\Finance Management System\Finance Management System\obj\Debug\net8.0\Finance Management System.genruntimeconfig.cache
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\Finance Management System\Finance Management System\obj\Debug\net8.0\ref\Finance Management System.dll
