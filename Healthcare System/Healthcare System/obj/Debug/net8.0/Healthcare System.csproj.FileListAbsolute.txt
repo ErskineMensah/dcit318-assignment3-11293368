@@ -1,0 +1,15 @@
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\Healthcare System\Healthcare System\bin\Debug\net8.0\Healthcare System.exe
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\Healthcare System\Healthcare System\bin\Debug\net8.0\Healthcare System.deps.json
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\Healthcare System\Healthcare System\bin\Debug\net8.0\Healthcare System.runtimeconfig.json
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\Healthcare System\Healthcare System\bin\Debug\net8.0\Healthcare System.dll
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\Healthcare System\Healthcare System\bin\Debug\net8.0\Healthcare System.pdb
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\Healthcare System\Healthcare System\obj\Debug\net8.0\Healthcare System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\Healthcare System\Healthcare System\obj\Debug\net8.0\Healthcare System.AssemblyInfoInputs.cache
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\Healthcare System\Healthcare System\obj\Debug\net8.0\Healthcare System.AssemblyInfo.cs
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\Healthcare System\Healthcare System\obj\Debug\net8.0\Healthcare System.csproj.CoreCompileInputs.cache
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\Healthcare System\Healthcare System\obj\Debug\net8.0\Healthcare System.sourcelink.json
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\Healthcare System\Healthcare System\obj\Debug\net8.0\Healthcare System.dll
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\Healthcare System\Healthcare System\obj\Debug\net8.0\refint\Healthcare System.dll
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\Healthcare System\Healthcare System\obj\Debug\net8.0\Healthcare System.pdb
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\Healthcare System\Healthcare System\obj\Debug\net8.0\Healthcare System.genruntimeconfig.cache
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\Healthcare System\Healthcare System\obj\Debug\net8.0\ref\Healthcare System.dll
