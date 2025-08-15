@@ -1,0 +1,5 @@
+Alice Smith (ID: 101): Score = 84, Grade = A
+John Doe (ID: 102): Score = 72, Grade = B
+Mary Johnson (ID: 103): Score = 65, Grade = C
+Tom Brown (ID: 104): Score = 58, Grade = D
+Sarah White (ID: 105): Score = 45, Grade = F

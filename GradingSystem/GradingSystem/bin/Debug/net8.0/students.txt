@@ -1,0 +1,5 @@
+101, Alice Smith, 84
+102, John Doe, 72
+103, Mary Johnson, 65
+104, Tom Brown, 58
+105, Sarah White, 45
