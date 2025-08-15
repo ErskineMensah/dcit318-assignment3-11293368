@@ -1,0 +1,15 @@
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\InventoryRecordsSystem\InventoryRecordsSystem\bin\Debug\net8.0\InventoryRecordsSystem.exe
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\InventoryRecordsSystem\InventoryRecordsSystem\bin\Debug\net8.0\InventoryRecordsSystem.deps.json
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\InventoryRecordsSystem\InventoryRecordsSystem\bin\Debug\net8.0\InventoryRecordsSystem.runtimeconfig.json
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\InventoryRecordsSystem\InventoryRecordsSystem\bin\Debug\net8.0\InventoryRecordsSystem.dll
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\InventoryRecordsSystem\InventoryRecordsSystem\bin\Debug\net8.0\InventoryRecordsSystem.pdb
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\InventoryRecordsSystem\InventoryRecordsSystem\obj\Debug\net8.0\InventoryRecordsSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\InventoryRecordsSystem\InventoryRecordsSystem\obj\Debug\net8.0\InventoryRecordsSystem.AssemblyInfoInputs.cache
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\InventoryRecordsSystem\InventoryRecordsSystem\obj\Debug\net8.0\InventoryRecordsSystem.AssemblyInfo.cs
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\InventoryRecordsSystem\InventoryRecordsSystem\obj\Debug\net8.0\InventoryRecordsSystem.csproj.CoreCompileInputs.cache
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\InventoryRecordsSystem\InventoryRecordsSystem\obj\Debug\net8.0\InventoryRecordsSystem.sourcelink.json
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\InventoryRecordsSystem\InventoryRecordsSystem\obj\Debug\net8.0\InventoryRecordsSystem.dll
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\InventoryRecordsSystem\InventoryRecordsSystem\obj\Debug\net8.0\refint\InventoryRecordsSystem.dll
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\InventoryRecordsSystem\InventoryRecordsSystem\obj\Debug\net8.0\InventoryRecordsSystem.pdb
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\InventoryRecordsSystem\InventoryRecordsSystem\obj\Debug\net8.0\InventoryRecordsSystem.genruntimeconfig.cache
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A3\Code\dcit318-assignment3-11293368\InventoryRecordsSystem\InventoryRecordsSystem\obj\Debug\net8.0\ref\InventoryRecordsSystem.dll
